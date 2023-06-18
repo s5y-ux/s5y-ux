@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 Email: josephshumaker11@gmail.com
 
 Phone: +1 (805) 826 - 1586
-
-
-t
