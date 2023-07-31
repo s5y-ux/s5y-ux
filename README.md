@@ -21,6 +21,6 @@ Phone: +1 (805) 826 - 1586
 
 🔭 I’m currently working on ISS Recorder and Glow Plug Relay
 
-🌱 I’m currently learning Perl and Pandas
+🌱 I’m currently learning FileMaker and Pandas
 
 
