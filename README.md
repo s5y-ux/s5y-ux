@@ -21,4 +21,4 @@ Email: josephshumaker11@gmail.com
 
 🌱 I’m currently learning FileMaker, Pandas, and MonkeyBread
 
-
+😄 [Help me through School](https://www.paypal.com/donate/?business=ZBHWZD42BL52Q&no_recurring=0&item_name=Thank+you+from+the+bottom+of+my+heart%21+I+appreciate+every+cent%2C+and+people+like+you+encourage+me+to+continue+creating.++&currency_code=USD)
