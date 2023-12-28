@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 Email: josephshumaker11@gmail.com
 
-🔭 I’m currently working on an ISS Python Package and Some Pretty Gnarly Malware
+🔭 I’m currently working on Personal Portfolio and a Premium Java plugin
 
-🌱 I’m currently learning FileMaker, Pandas, and MonkeyBread
+🌱 I’m currently learning Spigot, C#, and Java
 
 😄 [Help me through School](https://www.paypal.com/donate/?business=ZBHWZD42BL52Q&no_recurring=0&item_name=Thank+you+from+the+bottom+of+my+heart%21+I+appreciate+every+cent%2C+and+people+like+you+encourage+me+to+continue+creating.++&currency_code=USD)
