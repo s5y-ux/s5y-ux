@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 Email: josephshumaker11@gmail.com
 
-🔭 I’m currently working on Personal Portfolio and a Premium Java plugin
+🔭 I’m currently working on a Personal Portfolio and a Premium Java plugin
 
 🌱 I’m currently learning Spigot, C#, and Java
 
