@@ -1,6 +1,7 @@
 ## 20 Something Nobody 😭
 ### But Perhaps I could be a 20 something somebody 🤔
 ![241651711-3dc8862f-c7d7-4410-b95b-afd1f75f8ca5](https://github.com/s5y-ux/s5y-ux/assets/59636597/9a43713e-6561-4130-b32f-729874abe86a)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=DRACULA" alt="Top Languages" />
 <!--
 **s5y-ux/s5y-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
