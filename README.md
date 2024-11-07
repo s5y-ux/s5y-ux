@@ -18,8 +18,4 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 Email: josephshumaker11@gmail.com
 
-🔭 I’m currently working on a Personal Portfolio, Mobile Game, and a Premium Java plugin
-
-🌱 I’m currently learning Spigot, Unity, and Eel
-
 😄 [Help me through School](https://www.paypal.com/donate/?business=ZBHWZD42BL52Q&no_recurring=0&item_name=Thank+you+from+the+bottom+of+my+heart%21+I+appreciate+every+cent%2C+and+people+like+you+encourage+me+to+continue+creating.++&currency_code=USD)
