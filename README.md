@@ -1,21 +1,4 @@
-## 20 Something Nobody 😭
-### But Perhaps I could be a 20 something somebody 🤔
-![241651711-3dc8862f-c7d7-4410-b95b-afd1f75f8ca5](https://github.com/s5y-ux/s5y-ux/assets/59636597/9a43713e-6561-4130-b32f-729874abe86a)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s5y-ux&layout=compact&langs_count=6&theme=DRACULA" alt="Top Languages" />
-<!--
-**s5y-ux/s5y-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# s5y
+My mind races is a sea of chaos, I feel everything. Then, I sit at my keyboard and stare at a portal of endless information yet I'm still.
 
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 📫 How to reach me:
-Email: josephshumaker11@gmail.com
-
-😄 [Help me through School](https://www.paypal.com/donate/?business=ZBHWZD42BL52Q&no_recurring=0&item_name=Thank+you+from+the+bottom+of+my+heart%21+I+appreciate+every+cent%2C+and+people+like+you+encourage+me+to+continue+creating.++&currency_code=USD)
+![db043ed8163769cb4e02efc5eeb63360-4113448875](https://github.com/user-attachments/assets/60be5213-d62f-4b7f-bf35-23a6317c7a2c)
