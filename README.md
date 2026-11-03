@@ -1,5 +1,5 @@
 # s5y
 
->"Man is free the moment he wishes to be" — Voltaire
+>"Sometimes, through the noise of its thoughts, it hears the universe, yes." — Julian Gough (Minecraft)
 
 ---
